@@ -1,0 +1,2 @@
+rootProject.name='The Machis Game'
+include ':app'

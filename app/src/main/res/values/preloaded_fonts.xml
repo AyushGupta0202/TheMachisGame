@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/</item>
+        <item>@font/aclonica</item>
+        <item>@font/alfa_slab_one</item>
+        <item>@font/arapey</item>
+        <item>@font/archivo_black</item>
+        <item>@font/arimo_italic</item>
+        <item>@font/asset</item>
+        <item>@font/assistant_extralight</item>
+        <item>@font/audiowide</item>
+        <item>@font/bangers</item>
+        <item>@font/bungee_inline</item>
+        <item>@font/bungee_outline</item>
+        <item>@font/bungee_shade</item>
+        <item>@font/caesar_dressing</item>
+        <item>@font/cantarell_bold_italic</item>
+        <item>@font/contrail_one</item>
+        <item>@font/copse</item>
+        <item>@font/faster_one</item>
+        <item>@font/fjalla_one</item>
+        <item>@font/fugaz_one</item>
+        <item>@font/gochi_hand</item>
+        <item>@font/jockey_one</item>
+        <item>@font/kumar_one_outline</item>
+        <item>@font/lemon</item>
+        <item>@font/lora_bold_italic</item>
+        <item>@font/luckiest_guy</item>
+        <item>@font/monoton</item>
+        <item>@font/paprika</item>
+        <item>@font/permanent_marker</item>
+        <item>@font/racing_sans_one</item>
+        <item>@font/ruda</item>
+        <item>@font/sonsie_one</item>
+        <item>@font/trade_winds</item>
+        <item>@font/unlock</item>
+        <item>@font/vampiro_one</item>
+    </array>
+</resources>
