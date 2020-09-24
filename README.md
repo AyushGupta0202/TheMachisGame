@@ -7,7 +7,7 @@ In this app, you're have to pick matchsticks. Whoever picks the last matchstick 
 The code can handle any exception and App Not Responding errors without compromising with the user experience.
 
 <div class="row">
-      <img src="/app/Screenshot_20200924-185108_The%Machis%Game.jpg" width="250" title="Game Title">
-      <img src="/app/Screenshot_20200924-185141_The%Machis%Game.jpg" width="250" title="Game Screen">
-      <img src="/app/Screenshot_20200924-185258_The%Machis%Game.jpg" width="250" title="Result Screen"> 
+      <img src="/app/Screenshot_20200924-185108_The%20Machis%20Game.jpg" width="250" title="Game Title">
+      <img src="/app/Screenshot_20200924-185141_The%20Machis%20Game.jpg" width="250" title="Game Screen">
+      <img src="/app/Screenshot_20200924-185258_The%20Machis%20Game.jpg" width="250" title="Result Screen"> 
 </div>
